@@ -1,0 +1,905 @@
+{
+  "meta": {
+    "experience_range_detected": [
+      4.0,
+      7.0
+    ],
+    "jd_skill_phrases": [
+      "nlp",
+      "fine tuning llms",
+      "pytorch",
+      "model deployment",
+      "aws",
+      "gcp",
+      "cross functional with data engineering"
+    ]
+  },
+  "count": 30,
+  "results": [
+    {
+      "rank": 1,
+      "candidate_id": "CAND_0052682",
+      "name": "Ira Mukherjee",
+      "final_score": 58.09,
+      "headline": "NLP Engineer | Applied ML | Building intelligent products",
+      "current_title": "NLP Engineer",
+      "current_company": "Aganitha",
+      "location": "Vizag, Andhra Pradesh",
+      "years_of_experience": 6.6,
+      "matched_skills": [
+        "PyTorch",
+        "LLMs",
+        "Python",
+        "Fine-tuning LLMs"
+      ],
+      "score_breakdown": {
+        "semantic": 16.0,
+        "skills": 46.3,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 100.0,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 30,
+      "education_tier": "tier_1",
+      "summary": "Machine learning engineer with 6.6 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I've been the de-facto ML lead on a small team, shipping models across NLP and recsys. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on PyTorch, LLMs, Python, Fine-tuning LLMs. 6.6 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 2,
+      "candidate_id": "CAND_0092181",
+      "name": "Nikhil Bhatia",
+      "final_score": 55.75,
+      "headline": "Data Scientist | Data Science & ML enthusiast",
+      "current_title": "Data Scientist",
+      "current_company": "Unacademy",
+      "location": "Mumbai, Maharashtra",
+      "years_of_experience": 4.6,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "PyTorch",
+        "LLMs",
+        "NLP"
+      ],
+      "score_breakdown": {
+        "semantic": 16.1,
+        "skills": 45.9,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 81.2,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 45,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 4.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role \u2014 closer to retrieval, LLMs, and modern ranking systems.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, PyTorch, LLMs, NLP. 4.6 yrs experience matches the role's 4-7 yr target. Actively open to work. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 3,
+      "candidate_id": "CAND_0032515",
+      "name": "Anjali Sen",
+      "final_score": 55.46,
+      "headline": "Machine Learning Engineer | Applied ML | Building intelligent products",
+      "current_title": "Machine Learning Engineer",
+      "current_company": "PharmEasy",
+      "location": "Seattle",
+      "years_of_experience": 5.1,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "NLP",
+        "Machine Learning",
+        "PyTorch"
+      ],
+      "score_breakdown": {
+        "semantic": 19.4,
+        "skills": 46.2,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 69.2,
+        "stability": 100.0
+      },
+      "open_to_work": false,
+      "notice_period_days": 45,
+      "education_tier": "tier_1",
+      "summary": "Machine learning engineer with 5.1 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, NLP, Machine Learning, PyTorch. 5.1 yrs experience matches the role's 4-7 yr target. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 4,
+      "candidate_id": "CAND_0021729",
+      "name": "Saanvi Nair",
+      "final_score": 55.38,
+      "headline": "Junior ML Engineer | 3.5 yrs in analytics & ML",
+      "current_title": "Junior ML Engineer",
+      "current_company": "Mad Street Den",
+      "location": "Coimbatore, Tamil Nadu",
+      "years_of_experience": 3.5,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "NLP",
+        "GCP",
+        "Machine Learning",
+        "PyTorch"
+      ],
+      "score_breakdown": {
+        "semantic": 11.6,
+        "skills": 58.3,
+        "experience": 88.8,
+        "education": 100.0,
+        "behavioral": 74.3,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 90,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 3.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side \u2014 mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering \u2014 get serious about LLMs and retrieval beyond the surface level.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, NLP, GCP, Machine Learning, PyTorch. Slightly under the typical 4+ yr bar (3.5 yrs) but profile signals offset it. Actively open to work. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 5,
+      "candidate_id": "CAND_0020708",
+      "name": "Kiara Patel",
+      "final_score": 53.95,
+      "headline": "Search Engineer | ML, NLP, Recommendation Systems",
+      "current_title": "Search Engineer",
+      "current_company": "PolicyBazaar",
+      "location": "Indore, Madhya Pradesh",
+      "years_of_experience": 4.2,
+      "matched_skills": [
+        "NLP",
+        "Python",
+        "LLMs",
+        "Fine-tuning LLMs"
+      ],
+      "score_breakdown": {
+        "semantic": 13.9,
+        "skills": 43.4,
+        "experience": 100.0,
+        "education": 75.0,
+        "behavioral": 90.3,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 30,
+      "education_tier": "tier_2",
+      "summary": "Machine learning engineer with 4.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on NLP, Python, LLMs, Fine-tuning LLMs. 4.2 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 6,
+      "candidate_id": "CAND_0007567",
+      "name": "Ved Goyal",
+      "final_score": 53.68,
+      "headline": "AI Specialist | 6.1 yrs in analytics & ML",
+      "current_title": "AI Specialist",
+      "current_company": "Niramai",
+      "location": "Kochi, Kerala",
+      "years_of_experience": 6.1,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "NLP",
+        "LLMs",
+        "PyTorch"
+      ],
+      "score_breakdown": {
+        "semantic": 14.5,
+        "skills": 46.7,
+        "experience": 100.0,
+        "education": 50.0,
+        "behavioral": 91.5,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 60,
+      "education_tier": "tier_4",
+      "summary": "Data scientist / ML engineer with 6.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side \u2014 mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, NLP, LLMs, PyTorch. 6.1 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 7,
+      "candidate_id": "CAND_0055960",
+      "name": "Saanvi Vora",
+      "final_score": 53.61,
+      "headline": "AI Specialist | Building ML-powered solutions",
+      "current_title": "AI Specialist",
+      "current_company": "Dream11",
+      "location": "San Francisco",
+      "years_of_experience": 4.9,
+      "matched_skills": [
+        "Machine Learning",
+        "PyTorch",
+        "LLMs"
+      ],
+      "score_breakdown": {
+        "semantic": 12.4,
+        "skills": 37.8,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 92.2,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 90,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 4.9 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.",
+      "reasoning": "Strong overlap on Machine Learning, PyTorch, LLMs. 4.9 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 8,
+      "candidate_id": "CAND_0099269",
+      "name": "Ishaan Singh",
+      "final_score": 53.05,
+      "headline": "Data Scientist | Building ML-powered solutions",
+      "current_title": "Data Scientist",
+      "current_company": "BYJU'S",
+      "location": "Noida, Uttar Pradesh",
+      "years_of_experience": 5.5,
+      "matched_skills": [
+        "Python",
+        "NLP",
+        "LLMs",
+        "GCP"
+      ],
+      "score_breakdown": {
+        "semantic": 11.6,
+        "skills": 48.1,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 65.5,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 120,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 5.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side \u2014 mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering \u2014 get serious about LLMs and retrieval beyond the surface level.",
+      "reasoning": "Strong overlap on Python, NLP, LLMs, GCP. 5.5 yrs experience matches the role's 4-7 yr target. Actively open to work. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 9,
+      "candidate_id": "CAND_0024466",
+      "name": "Om Mukherjee",
+      "final_score": 52.85,
+      "headline": "Search Engineer | Applied ML | Building intelligent products",
+      "current_title": "Search Engineer",
+      "current_company": "PharmEasy",
+      "location": "Toronto",
+      "years_of_experience": 5.2,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "LLMs",
+        "NLP",
+        "PyTorch"
+      ],
+      "score_breakdown": {
+        "semantic": 12.5,
+        "skills": 43.9,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 71.2,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 120,
+      "education_tier": "tier_1",
+      "summary": "Machine learning engineer with 5.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, LLMs, NLP, PyTorch. 5.2 yrs experience matches the role's 4-7 yr target. Actively open to work. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 10,
+      "candidate_id": "CAND_0061655",
+      "name": "Mira Banerjee",
+      "final_score": 52.76,
+      "headline": "Machine Learning Engineer | ML, NLP, Recommendation Systems",
+      "current_title": "Machine Learning Engineer",
+      "current_company": "Krutrim",
+      "location": "Jaipur, Rajasthan",
+      "years_of_experience": 4.6,
+      "matched_skills": [
+        "Machine Learning",
+        "PyTorch",
+        "NLP"
+      ],
+      "score_breakdown": {
+        "semantic": 15.7,
+        "skills": 33.5,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 86.4,
+        "stability": 100.0
+      },
+      "open_to_work": false,
+      "notice_period_days": 15,
+      "education_tier": "tier_1",
+      "summary": "Machine learning engineer with 4.6 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, my main project for the last 18 months has been the recommendation system that powers our discovery feed. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on Machine Learning, PyTorch, NLP. 4.6 yrs experience matches the role's 4-7 yr target. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 11,
+      "candidate_id": "CAND_0079284",
+      "name": "Ishaan Dutta",
+      "final_score": 52.6,
+      "headline": "Machine Learning Engineer | Applied ML | Building intelligent products",
+      "current_title": "Machine Learning Engineer",
+      "current_company": "Google",
+      "location": "Hyderabad, Telangana",
+      "years_of_experience": 4.9,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "NLP",
+        "Machine Learning"
+      ],
+      "score_breakdown": {
+        "semantic": 16.8,
+        "skills": 34.7,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 79.1,
+        "stability": 100.0
+      },
+      "open_to_work": false,
+      "notice_period_days": 30,
+      "education_tier": "tier_1",
+      "summary": "Machine learning engineer with 4.9 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I've learned that most retrieval problems are actually evaluation problems in disguise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, NLP, Machine Learning. 4.9 yrs experience matches the role's 4-7 yr target. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 12,
+      "candidate_id": "CAND_0034169",
+      "name": "Jay Shah",
+      "final_score": 52.51,
+      "headline": "AI Research Engineer | 3.4 yrs in analytics & ML",
+      "current_title": "AI Research Engineer",
+      "current_company": "Krutrim",
+      "location": "Noida, Uttar Pradesh",
+      "years_of_experience": 3.4,
+      "matched_skills": [
+        "Python",
+        "LLMs",
+        "Fine-tuning LLMs",
+        "NLP"
+      ],
+      "score_breakdown": {
+        "semantic": 15.2,
+        "skills": 47.6,
+        "experience": 86.5,
+        "education": 100.0,
+        "behavioral": 68.3,
+        "stability": 100.0
+      },
+      "open_to_work": false,
+      "notice_period_days": 90,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 3.4 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side \u2014 mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering \u2014 get serious about LLMs and retrieval beyond the surface level.",
+      "reasoning": "Strong overlap on Python, LLMs, Fine-tuning LLMs, NLP. Slightly under the typical 4+ yr bar (3.4 yrs) but profile signals offset it. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 13,
+      "candidate_id": "CAND_0091254",
+      "name": "Avni Agarwal",
+      "final_score": 52.46,
+      "headline": "AI Research Engineer | 5.2 yrs in analytics & ML",
+      "current_title": "AI Research Engineer",
+      "current_company": "Zoho",
+      "location": "Chandigarh, Chandigarh",
+      "years_of_experience": 5.2,
+      "matched_skills": [
+        "Machine Learning",
+        "NLP",
+        "Python",
+        "PyTorch"
+      ],
+      "score_breakdown": {
+        "semantic": 13.5,
+        "skills": 43.1,
+        "experience": 100.0,
+        "education": 75.0,
+        "behavioral": 79.7,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 60,
+      "education_tier": "tier_2",
+      "summary": "Data scientist / ML engineer with 5.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role \u2014 closer to retrieval, LLMs, and modern ranking systems.",
+      "reasoning": "Strong overlap on Machine Learning, NLP, Python, PyTorch. 5.2 yrs experience matches the role's 4-7 yr target. Actively open to work. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 14,
+      "candidate_id": "CAND_0023093",
+      "name": "Anika Ghosh",
+      "final_score": 52.24,
+      "headline": "ML Engineer | Building ML-powered solutions",
+      "current_title": "ML Engineer",
+      "current_company": "PolicyBazaar",
+      "location": "Seattle",
+      "years_of_experience": 5.1,
+      "matched_skills": [
+        "LLMs",
+        "Fine-tuning LLMs",
+        "GCP"
+      ],
+      "score_breakdown": {
+        "semantic": 14.4,
+        "skills": 33.6,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 85.4,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 90,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 5.1 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side \u2014 mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.",
+      "reasoning": "Strong overlap on LLMs, Fine-tuning LLMs, GCP. 5.1 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 15,
+      "candidate_id": "CAND_0032807",
+      "name": "Nisha Shah",
+      "final_score": 52.22,
+      "headline": "Machine Learning Engineer | Applied ML | Building intelligent products",
+      "current_title": "Machine Learning Engineer",
+      "current_company": "CRED",
+      "location": "Trivandrum, Kerala",
+      "years_of_experience": 4.2,
+      "matched_skills": [
+        "Python",
+        "LLMs",
+        "Fine-tuning LLMs"
+      ],
+      "score_breakdown": {
+        "semantic": 16.9,
+        "skills": 33.2,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 79.4,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 90,
+      "education_tier": "tier_1",
+      "summary": "Machine learning engineer with 4.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. Along the way I've gotten comfortable with the operational side \u2014 A/B testing, drift monitoring, retraining schedules. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on Python, LLMs, Fine-tuning LLMs. 4.2 yrs experience matches the role's 4-7 yr target. Actively open to work. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 16,
+      "candidate_id": "CAND_0089012",
+      "name": "Sai Bose",
+      "final_score": 52.09,
+      "headline": "AI Specialist | 4.2 yrs in analytics & ML",
+      "current_title": "AI Specialist",
+      "current_company": "TCS",
+      "location": "Mumbai, Maharashtra",
+      "years_of_experience": 4.2,
+      "matched_skills": [
+        "Python",
+        "NLP",
+        "Fine-tuning LLMs"
+      ],
+      "score_breakdown": {
+        "semantic": 11.5,
+        "skills": 36.5,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 84.8,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 60,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 4.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.",
+      "reasoning": "Strong overlap on Python, NLP, Fine-tuning LLMs. 4.2 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 17,
+      "candidate_id": "CAND_0051615",
+      "name": "Pooja Banerjee",
+      "final_score": 51.9,
+      "headline": "Search Engineer | Applied ML | Building intelligent products",
+      "current_title": "Search Engineer",
+      "current_company": "Meta",
+      "location": "Coimbatore, Tamil Nadu",
+      "years_of_experience": 4.6,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "LLMs",
+        "NLP"
+      ],
+      "score_breakdown": {
+        "semantic": 11.9,
+        "skills": 34.3,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 87.3,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 60,
+      "education_tier": "tier_1",
+      "summary": "Machine learning engineer with 4.6 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, my main project for the last 18 months has been the recommendation system that powers our discovery feed. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, LLMs, NLP. 4.6 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 18,
+      "candidate_id": "CAND_0078508",
+      "name": "Sai Trivedi",
+      "final_score": 51.59,
+      "headline": "AI Research Engineer | 5.2 yrs in analytics & ML",
+      "current_title": "AI Research Engineer",
+      "current_company": "Rephrase.ai",
+      "location": "Chandigarh, Chandigarh",
+      "years_of_experience": 5.2,
+      "matched_skills": [
+        "LLMs",
+        "AWS",
+        "NLP",
+        "Fine-tuning LLMs"
+      ],
+      "score_breakdown": {
+        "semantic": 18.6,
+        "skills": 45.4,
+        "experience": 100.0,
+        "education": 50.0,
+        "behavioral": 66.1,
+        "stability": 100.0
+      },
+      "open_to_work": false,
+      "notice_period_days": 30,
+      "education_tier": "tier_3",
+      "summary": "Data scientist / ML engineer with 5.2 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.",
+      "reasoning": "Strong overlap on LLMs, AWS, NLP, Fine-tuning LLMs. 5.2 yrs experience matches the role's 4-7 yr target. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 19,
+      "candidate_id": "CAND_0095528",
+      "name": "Amit Dalal",
+      "final_score": 51.39,
+      "headline": "Senior Data Scientist | Search, Ranking & Retrieval",
+      "current_title": "Senior Data Scientist",
+      "current_company": "Netflix",
+      "location": "Indore, Madhya Pradesh",
+      "years_of_experience": 5.3,
+      "matched_skills": [
+        "PyTorch",
+        "Fine-tuning LLMs",
+        "Python"
+      ],
+      "score_breakdown": {
+        "semantic": 13.6,
+        "skills": 34.4,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 78.2,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 45,
+      "education_tier": "tier_1",
+      "summary": "Machine learning engineer with 5.3 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I've been the de-facto ML lead on a small team, shipping models across NLP and recsys. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+      "reasoning": "Strong overlap on PyTorch, Fine-tuning LLMs, Python. 5.3 yrs experience matches the role's 4-7 yr target. Actively open to work. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 20,
+      "candidate_id": "CAND_0046525",
+      "name": "Tanvi Mukherjee",
+      "final_score": 51.33,
+      "headline": "Senior Machine Learning Engineer | Building AI-native search & ranking systems",
+      "current_title": "Senior Machine Learning Engineer",
+      "current_company": "Genpact AI",
+      "location": "Pune, Maharashtra",
+      "years_of_experience": 6.1,
+      "matched_skills": [
+        "Machine Learning",
+        "LLMs",
+        "NLP"
+      ],
+      "score_breakdown": {
+        "semantic": 17.2,
+        "skills": 33.0,
+        "experience": 100.0,
+        "education": 75.0,
+        "behavioral": 84.0,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 60,
+      "education_tier": "tier_2",
+      "summary": "Senior AI engineer with 6.1 years of hands-on experience building production ML systems, with a focus on search, retrieval, and ranking. Most recently, I designed the company's first hybrid retrieval system combining BM25 with dense vector recall, handling peak QPS of 8K with sub-200ms p95. My day-to-day work spans embedding model selection and fine-tuning, hybrid retrieval architecture, learning-to-rank, behavioral-signal integration, and the offline/online evaluation that ties it all together. I've shipped systems in both early-stage product companies and at larger scale, and I've spent enough time on both that I know which tradeoffs apply where. I care more about shipping a working system in 6 weeks than a theoretically perfect one in 6 months. Currently exploring my next move \u2014 looking for senior IC or tech-lead roles where I can own the intelligence layer end-to-end.",
+      "reasoning": "Strong overlap on Machine Learning, LLMs, NLP. 6.1 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 21,
+      "candidate_id": "CAND_0033352",
+      "name": "Aarohi Dutta",
+      "final_score": 51.2,
+      "headline": "Computer Vision Engineer | Building ML-powered solutions",
+      "current_title": "Computer Vision Engineer",
+      "current_company": "Ola",
+      "location": "Indore, Madhya Pradesh",
+      "years_of_experience": 5.0,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "LLMs",
+        "Machine Learning"
+      ],
+      "score_breakdown": {
+        "semantic": 16.2,
+        "skills": 31.9,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 75.9,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 60,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 5.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems \u2014 churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering \u2014 get serious about LLMs and retrieval beyond the surface level.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, LLMs, Machine Learning. 5.0 yrs experience matches the role's 4-7 yr target. Actively open to work. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 22,
+      "candidate_id": "CAND_0054318",
+      "name": "Yash Goyal",
+      "final_score": 51.19,
+      "headline": "AI Research Engineer | Building ML-powered solutions",
+      "current_title": "AI Research Engineer",
+      "current_company": "BYJU'S",
+      "location": "Chandigarh, Chandigarh",
+      "years_of_experience": 3.5,
+      "matched_skills": [
+        "PyTorch",
+        "GCP",
+        "Python"
+      ],
+      "score_breakdown": {
+        "semantic": 11.7,
+        "skills": 32.9,
+        "experience": 88.8,
+        "education": 100.0,
+        "behavioral": 98.4,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 60,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 3.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role \u2014 closer to retrieval, LLMs, and modern ranking systems.",
+      "reasoning": "Strong overlap on PyTorch, GCP, Python. Slightly under the typical 4+ yr bar (3.5 yrs) but profile signals offset it. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 23,
+      "candidate_id": "CAND_0004555",
+      "name": "Aditya Chowdary",
+      "final_score": 51.14,
+      "headline": "Senior Software Engineer (ML) | 5.0 yrs in analytics & ML",
+      "current_title": "Senior Software Engineer (ML)",
+      "current_company": "Dream11",
+      "location": "Kochi, Kerala",
+      "years_of_experience": 5.0,
+      "matched_skills": [
+        "GCP",
+        "LLMs",
+        "PyTorch"
+      ],
+      "score_breakdown": {
+        "semantic": 12.6,
+        "skills": 33.0,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 82.3,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 90,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 5.0 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've been working on recommendation-style features but lighter on the deep-learning side \u2014 mostly classical methods like collaborative filtering and gradient-boosted models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering \u2014 get serious about LLMs and retrieval beyond the surface level.",
+      "reasoning": "Strong overlap on GCP, LLMs, PyTorch. 5.0 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 24,
+      "candidate_id": "CAND_0039983",
+      "name": "Aadhya Joshi",
+      "final_score": 51.09,
+      "headline": "Computer Vision Engineer | 6.6 yrs in analytics & ML",
+      "current_title": "Computer Vision Engineer",
+      "current_company": "Meesho",
+      "location": "Delhi, Delhi",
+      "years_of_experience": 6.6,
+      "matched_skills": [
+        "Machine Learning",
+        "Fine-tuning LLMs",
+        "GCP"
+      ],
+      "score_breakdown": {
+        "semantic": 14.4,
+        "skills": 32.8,
+        "experience": 100.0,
+        "education": 75.0,
+        "behavioral": 90.0,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 45,
+      "education_tier": "tier_2",
+      "summary": "Data scientist / ML engineer with 6.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.",
+      "reasoning": "Strong overlap on Machine Learning, Fine-tuning LLMs, GCP. 6.6 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 25,
+      "candidate_id": "CAND_0089889",
+      "name": "Priya Nair",
+      "final_score": 50.98,
+      "headline": "Data Scientist | Data Science & ML enthusiast",
+      "current_title": "Data Scientist",
+      "current_company": "TCS",
+      "location": "Hyderabad, Telangana",
+      "years_of_experience": 4.3,
+      "matched_skills": [
+        "PyTorch",
+        "Python",
+        "NLP"
+      ],
+      "score_breakdown": {
+        "semantic": 11.7,
+        "skills": 31.9,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 85.8,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 90,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 4.3 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. Most of my recent work has been on predictive modeling for customer-facing problems \u2014 churn, conversion, lifetime value. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering \u2014 get serious about LLMs and retrieval beyond the surface level.",
+      "reasoning": "Strong overlap on PyTorch, Python, NLP. 4.3 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 26,
+      "candidate_id": "CAND_0072721",
+      "name": "Reyansh Menon",
+      "final_score": 50.94,
+      "headline": "Data Scientist | 3.7 yrs in analytics & ML",
+      "current_title": "Data Scientist",
+      "current_company": "Yellow.ai",
+      "location": "Noida, Uttar Pradesh",
+      "years_of_experience": 3.7,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "Python",
+        "PyTorch",
+        "Machine Learning"
+      ],
+      "score_breakdown": {
+        "semantic": 14.3,
+        "skills": 45.3,
+        "experience": 93.2,
+        "education": 50.0,
+        "behavioral": 80.2,
+        "stability": 100.0
+      },
+      "open_to_work": false,
+      "notice_period_days": 30,
+      "education_tier": "tier_3",
+      "summary": "Data scientist / ML engineer with 3.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I want to grow into senior AI engineering \u2014 get serious about LLMs and retrieval beyond the surface level.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, Python, PyTorch, Machine Learning. Slightly under the typical 4+ yr bar (3.7 yrs) but profile signals offset it. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 27,
+      "candidate_id": "CAND_0094529",
+      "name": "Sai Kapoor",
+      "final_score": 50.86,
+      "headline": "Computer Vision Engineer | 5.7 yrs in analytics & ML",
+      "current_title": "Computer Vision Engineer",
+      "current_company": "Verloop.io",
+      "location": "Ahmedabad, Gujarat",
+      "years_of_experience": 5.7,
+      "matched_skills": [
+        "AWS",
+        "Machine Learning",
+        "NLP",
+        "LLMs"
+      ],
+      "score_breakdown": {
+        "semantic": 11.2,
+        "skills": 44.8,
+        "experience": 100.0,
+        "education": 75.0,
+        "behavioral": 68.7,
+        "stability": 100.0
+      },
+      "open_to_work": false,
+      "notice_period_days": 120,
+      "education_tier": "tier_2",
+      "summary": "Data scientist / ML engineer with 5.7 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role \u2014 closer to retrieval, LLMs, and modern ranking systems.",
+      "reasoning": "Strong overlap on AWS, Machine Learning, NLP, LLMs. 5.7 yrs experience matches the role's 4-7 yr target. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 28,
+      "candidate_id": "CAND_0086801",
+      "name": "Myra Iyer",
+      "final_score": 50.81,
+      "headline": "Computer Vision Engineer | 6.6 yrs in analytics & ML",
+      "current_title": "Computer Vision Engineer",
+      "current_company": "Freshworks",
+      "location": "Pune, Maharashtra",
+      "years_of_experience": 6.6,
+      "matched_skills": [
+        "Fine-tuning LLMs",
+        "Machine Learning",
+        "Python"
+      ],
+      "score_breakdown": {
+        "semantic": 12.0,
+        "skills": 35.8,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 74.5,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 120,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 6.6 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. My current role is split between dashboarding/analytics and shipping production ML models. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. Looking for a role where I can step up to more end-to-end ownership of ML systems, not just modeling.",
+      "reasoning": "Strong overlap on Fine-tuning LLMs, Machine Learning, Python. 6.6 yrs experience matches the role's 4-7 yr target. Actively open to work. Historically responsive to recruiter outreach. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 29,
+      "candidate_id": "CAND_0091899",
+      "name": "Aditya Iyer",
+      "final_score": 50.79,
+      "headline": "Senior Software Engineer (ML) | 5.8 yrs in analytics & ML",
+      "current_title": "Senior Software Engineer (ML)",
+      "current_company": "PhonePe",
+      "location": "Delhi, Delhi",
+      "years_of_experience": 5.8,
+      "matched_skills": [
+        "Machine Learning",
+        "NLP",
+        "PyTorch"
+      ],
+      "score_breakdown": {
+        "semantic": 14.8,
+        "skills": 35.2,
+        "experience": 100.0,
+        "education": 75.0,
+        "behavioral": 81.0,
+        "stability": 100.0
+      },
+      "open_to_work": false,
+      "notice_period_days": 60,
+      "education_tier": "tier_2",
+      "summary": "Data scientist / ML engineer with 5.8 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role \u2014 closer to retrieval, LLMs, and modern ranking systems.",
+      "reasoning": "Strong overlap on Machine Learning, NLP, PyTorch. 5.8 yrs experience matches the role's 4-7 yr target. Stable career history, low job-hopping risk."
+    },
+    {
+      "rank": 30,
+      "candidate_id": "CAND_0094292",
+      "name": "Kabir Dalal",
+      "final_score": 50.72,
+      "headline": "AI Specialist | 6.5 yrs in analytics & ML",
+      "current_title": "AI Specialist",
+      "current_company": "Vedantu",
+      "location": "Mumbai, Maharashtra",
+      "years_of_experience": 6.5,
+      "matched_skills": [
+        "LLMs",
+        "PyTorch",
+        "NLP",
+        "Machine Learning"
+      ],
+      "score_breakdown": {
+        "semantic": 14.0,
+        "skills": 45.9,
+        "experience": 100.0,
+        "education": 100.0,
+        "behavioral": 45.0,
+        "stability": 100.0
+      },
+      "open_to_work": true,
+      "notice_period_days": 60,
+      "education_tier": "tier_1",
+      "summary": "Data scientist / ML engineer with 6.5 years of experience in applied machine learning. Worked across predictive modeling, NLP, analytics, and lightweight deployment workflows. I've spent the last couple of years building NLP-based classification and information extraction pipelines. I'm strongest at the modeling and analysis side; comfortable with Python, scikit-learn, pandas, and standard MLOps tooling, but I'm still building depth on the engineering and infra side of production ML. I'm looking to grow into a deeper AI/ML system-building role \u2014 closer to retrieval, LLMs, and modern ranking systems.",
+      "reasoning": "Strong overlap on LLMs, PyTorch, NLP, Machine Learning. 6.5 yrs experience matches the role's 4-7 yr target. Actively open to work. Stable career history, low job-hopping risk."
+    }
+  ]
+}

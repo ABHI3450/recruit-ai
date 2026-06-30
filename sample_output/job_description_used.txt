@@ -1,0 +1,11 @@
+Senior Machine Learning Engineer
+
+We're looking for a Senior ML Engineer with 4-7 years of experience to join our applied AI team.
+
+Requirements:
+- Strong Python skills with hands-on experience in NLP, fine-tuning LLMs, and model deployment
+- Experience building and shipping production ML pipelines, not just notebooks
+- Comfortable with PyTorch and cloud infrastructure (AWS/GCP)
+- Track record of working cross-functionally with data engineering and product teams
+- Bonus: experience with image classification or speech recognition systems
+- Open to remote candidates, must be willing to relocate is a plus but not required
