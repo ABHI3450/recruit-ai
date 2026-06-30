@@ -8,6 +8,7 @@ import os
 import pickle
 import re
 from datetime import datetime
+import urllib.request
 
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -106,6 +107,29 @@ def _flatten(rec):
         "composite_text": _composite_text(rec),
     }
     return flat
+
+
+
+
+CANDIDATES_URL = "https://media.githubusercontent.com/media/ABHI3450/recruit-ai/main/backend/candidates.jsonl"
+
+
+def _ensure_dataset_present():
+
+    """Downloads candidates.jsonl from GitHub LFS storage if it's missing
+    or is just a tiny LFS pointer stub (not the real file)."""
+    needs_download = False
+    if not os.path.exists(DATA_PATH):
+        needs_download = True
+    else:
+        size = os.path.getsize(DATA_PATH)
+        if size < 1_000_000:  # real file is ~465MB; pointer stub is <1KB
+            needs_download = True
+
+    if needs_download:
+        print("candidates.jsonl missing or is an LFS pointer stub — downloading real file...")
+        urllib.request.urlretrieve(CANDIDATES_URL, DATA_PATH)
+        print(f"Downloaded {os.path.getsize(DATA_PATH) / 1e6:.1f} MB")
 
 
 def load_dataset(force_rebuild=False):
