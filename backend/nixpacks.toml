@@ -1,4 +1,4 @@
-[phases.setup]
+﻿[phases.setup]
 aptPkgs = ["git-lfs"]
 
 [phases.install]
