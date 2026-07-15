@@ -1,0 +1,7 @@
+backend/candidates.jsonl
+sample_output/
+README.md
+RecruitAI_Approach_Deck.pdf
+.git/
+.gitignore
+__pycache__/

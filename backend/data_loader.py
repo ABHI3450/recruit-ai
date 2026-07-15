@@ -132,11 +132,27 @@ def _ensure_dataset_present():
         print(f"Downloaded {os.path.getsize(DATA_PATH) / 1e6:.1f} MB")
 
 
+REPO_CACHE_PATH = os.path.join(os.path.dirname(__file__), "cache.pkl")
+
+
 def load_dataset(force_rebuild=False):
     """Returns (df, vectorizer, tfidf_matrix). Cached on disk after first build."""
+    # 1. Try loading pre-built repository cache first (for instant Vercel starts)
+    if not force_rebuild and os.path.exists(REPO_CACHE_PATH):
+        try:
+            print("Loading pre-built dataset cache from repository...")
+            with open(REPO_CACHE_PATH, "rb") as f:
+                return pickle.load(f)
+        except Exception as e:
+            print(f"Warning: Could not load repo cache: {e}")
+
+    # 2. Fall back to temp cache
     if not force_rebuild and os.path.exists(CACHE_PATH):
-        with open(CACHE_PATH, "rb") as f:
-            return pickle.load(f)
+        try:
+            with open(CACHE_PATH, "rb") as f:
+                return pickle.load(f)
+        except Exception:
+            pass # If cache is corrupted, ignore and rebuild
 
     rows = []
     with open(DATA_PATH, "r", encoding="utf-8") as f:
@@ -160,7 +176,11 @@ def load_dataset(force_rebuild=False):
     )
     tfidf_matrix = vectorizer.fit_transform(df["composite_text"].fillna(""))
 
-    with open(CACHE_PATH, "wb") as f:
-        pickle.dump((df, vectorizer, tfidf_matrix), f, protocol=pickle.HIGHEST_PROTOCOL)
+    try:
+        with open(CACHE_PATH, "wb") as f:
+            pickle.dump((df, vectorizer, tfidf_matrix), f, protocol=pickle.HIGHEST_PROTOCOL)
+        print("Cache saved successfully.")
+    except Exception as e:
+        print(f"Warning: Could not save cache to {CACHE_PATH}: {e}")
 
     return df, vectorizer, tfidf_matrix
