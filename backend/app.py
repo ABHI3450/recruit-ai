@@ -1,6 +1,11 @@
 import csv
 import io
 import os
+import sys
+
+# Ensure sibling modules (data_loader, scoring) are importable when
+# Vercel loads this file as "backend.app:app" from the project root.
+sys.path.insert(0, os.path.dirname(__file__))
 
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
